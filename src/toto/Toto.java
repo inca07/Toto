@@ -18,6 +18,7 @@ public class Toto {
         // TODO code application logic here
         System.out.println("Coucou");
         System.out.println("Hello");
+        System.out.println("valerian t moche");
     }
     
 }
