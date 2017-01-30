@@ -20,4 +20,8 @@ public class Toto {
         System.out.println("Hello");
     }
     
+    public static void toto() {
+        // test
+    }
+    
 }
